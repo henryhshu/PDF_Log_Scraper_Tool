@@ -12,3 +12,5 @@ How to Use:
 2. edit the excel file creation name and hit run
 3. excel file will be created, data in excel file
 4. comb through excel file to fix minor defects occuring during the parsing process
+
+NOTE: result excel file will have data listed in columns
